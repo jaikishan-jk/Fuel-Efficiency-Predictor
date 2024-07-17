@@ -1,0 +1,5 @@
+python
+pandas
+scikit-learn
+streamlit
+pickle
